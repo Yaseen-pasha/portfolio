@@ -378,6 +378,9 @@ header .navbar ul li a:hover{
 .developer{
     font-size: 2.3rem !important;
 }
+.link h3:hover{
+    color: red !important;
+}
 
 
 
